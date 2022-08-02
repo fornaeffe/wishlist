@@ -120,6 +120,28 @@ Se il problema è che senza la questione di fiducia i lavori al Parlamento riman
 allora occorre modificare il regolamento di Camera e Senato per impedire l'ostruzionismo,
 ma il potere legislativo deve restare nelle mani del Parlamento, non del Governo.
 
+## Sanità gratuita e pubblica
+
+- Eliminare il ticket, spostando questa entrata nelle imposte sul reddito o nelle tasse di concessione di risorse,
+  in modo da semplificare le entrate dello Stato (obiettivo di semplificazione)
+  e non far ricadere solo sui malati il costo delle loro cure (obiettivo di equità e solidarietà).
+- Le prestazioni erogate privatamente non devono poter essere prenotate con tempi di attesa
+  inferiori a quelli della prima prestazione analoga disponibile attraverso la sanità pubblica
+  (obiettivo di equità).
+- Abolire le assicurazioni sanitarie:
+  l'assistenza sanitaria deve essere garantita a tutti
+  indipendentemente dal reddito o dalla situazione lavorativa (obiettivo di equità).
+
+## Istruzione gratuita
+
+- Abolire le tasse di iscrizione, anche se minime, per tutti gli ordini di scuola fino alle scuole superiori.
+- Fornire i libri di testo a spese dello Stato.
+- Per ciascun corso di laurea, fornire un adeguato numero di borse di studio,
+  assegnate in base al merito, che coprano le tasse di iscrizione
+  e forniscano un reddito sufficiente a coprire tutte le spese di vitto e alloggio.
+
 # Emilia-Romagna
 
-# Parma
+## Consumo di suolo zero
+
+Nell'attesa di realizzarlo a livello nazionale, lo realizzerei almeno a livello regionale.
