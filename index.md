@@ -124,6 +124,13 @@ Credo che una corretta pianificazione energetica andrebbe fatta in questo modo:
    che abbia il minor impatto ambientale e sociale,
    che sia in grado di coprire il fabbisogno atteso
    e che sia realizzabile dal punto di vista economico.
+
+## Piano europeo dei trasporti
+
+Come per l'energia, credo che anche per i trasporti su media e lunga distanza 
+sia necessaria una pianificazione a livello europeo,
+svolta in modo analogo alla pianificazione energetica,
+individuando cioè la combinazione di misure e infrastrutture che abbia i minori impatti ambientali e sociali.
    
 ## Accordi di importazione a tutela dei diritti ambientali e sociali
 
@@ -185,6 +192,10 @@ Qualsiasi nuova struttura dovrà essere realizzata su suolo già edificato.
 ## Piano energetico nazionale
 
 Vedi Piano energetico europeo: nell'attesa di realizzarlo a livello europeo, lo realizzerei almeno a livello nazionale.
+
+## Piano nazionale dei trasporti
+
+Vedi Piano europeo dei trasporti: nell'attesa di realizzarlo a livello europeo, lo realizzerei almeno a livello nazionale.
 
 ## Modificare la legge elettorale
 
@@ -275,6 +286,16 @@ i soldi vanno presi dalle tasse sullo sfruttamento delle risorse e dalle imposte
 
 Nell'attesa di realizzarlo a livello nazionale, lo realizzerei almeno a livello regionale.
 
+## Piano regionale dei trasporti
+
+Vedi Piano europeo dei trasporti: nell'attesa di realizzarlo a livello europeo o nazionale, lo realizzerei almeno a livello regionale.
+
+## Trasporto pubblico locale gratuito
+
+Il trasporto pubblico locale dovrebbe essere gratuito,
+finanziato tramite le tasse sullo sfruttamento delle risorse e le imposte sul reddito.
+
 ## Sanità gratuita e pubblica
 
 Nell'attesa di realizzarla a livello nazionale, la realizzerei almeno a livello regionale.
+
