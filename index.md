@@ -2,6 +2,10 @@
 title: Wishlist
 ---
 
+Questo elenco nasce da un desiderio di ampliare le idee che avevo abbozzato
+nel mio post sullo [Sviluppo Insostenibile](https://fornaeffe.blogspot.com/2019/11/sviluppo-insostenibile.html),
+che è perfetto come introduzione a questa lista.
+
 # Le radici
 
 ## Equità
@@ -55,6 +59,36 @@ gratuitamente e nel modo più semplice e immediato possibile.
 
 - Rimuovere il ruolo di membro permanente del Consiglio di Sicurezza
 
+## Carbon tax
+
+Per ridurre le emissioni di gas serra credo che occorra istituire una carbon tax,
+di importo via via crescente negli anni, 
+su qualsiasi uso di combustibili fossili
+o altra emissione di gas serra.
+Attraverso il denaro ricavato dalla carbon tax
+occorrerà incentivare la trasformazione del sistema produttivo
+in modo da fornire alternative accessibili ai combustibili fossili.
+
+## Ridurre la sovrappopolazione
+
+È necessario che i paesi del mondo si sforzino di limitare la sovrappopolazione,
+senza per questo limitare la libertà personale.
+Penso che questo obiettivo si possa raggiungere
+garantendo alle donne libertà di scelta riguardo alla loro vita e alla loro famiglia,
+garantendo, in particolare nei paesi dove oggi il tasso di natalità è maggiore,
+l'accesso da parte di tutti, e in particolare delle donne,
+all'istruzione, al mondo del lavoro, all'assistenza sanitaria,
+compreso l'informazione e l'accesso a contraccezione.
+
+## Libertà di scelta sulla propria vita e il proprio corpo
+
+Credo che ciascuno debba essere libero di decidere della propria vita,
+e quindi credo che l'eutanasia dovrebbe essere legale
+là dove è frutto di una libera scelta consapevole e ragionata.
+
+Credo che ciascuna donna dovrebbe essere libera di decidere se portare o no a termine una gravidanza,
+e la società dovrebbe garantire l'accesso ad un aborto sicuro e gratuito.
+
 # Europa
 
 ## Rivedere i trattati
@@ -90,6 +124,48 @@ Credo che una corretta pianificazione energetica andrebbe fatta in questo modo:
    che abbia il minor impatto ambientale e sociale,
    che sia in grado di coprire il fabbisogno atteso
    e che sia realizzabile dal punto di vista economico.
+   
+## Accordi di importazione a tutela dei diritti ambientali e sociali
+
+I nostri paesi "occidentali", di prima industrializzazione,
+stanno ricorrendo pesantemente all'importazione di prodotti -
+spesso non prodotti finiti ma semilavorati o materie prime - 
+da paesi di più recente industrializzazione,
+dove la manodopera costa meno e soprattutto i vincoli ambientali e sociali sono meno rigidi.
+Occhio non vede, cuore non duole, insomma.
+Questo ha anche l'effetto di far sembrare "virtuose" le nostre economie,
+quando in realtà non lo sono:
+ci teniamo le produzioni a minor impatto ambientale, sembrando ecologici,
+quando in realtà abbiamo solo spostato altrove le parti più impattanti della produzione,
+in luoghi dove il loro impatto si moltiplicherà.
+
+Questa delocalizzazione della produzione ha anche il pesantissimo effetto di creare disoccupazione nei nostri paesi,
+e costringere le nostre imprese a subire una concorrenza sleale da parte di imprese in altre parti del mondo
+che possono fare profitto senza i vincoli a cui le nostre devono sottostare.
+
+E' necessario, secondo me, che a livello europeo qualsiasi accordo di importazione
+preveda che **vengano importati esclusivamente beni e servizi da paesi con tutele ambientali e sociali almeno equivalenti a quelle europee**,
+oppure da imprese che garantiscano queste tutele alla comunità dove operano.
+
+## Carbon tax
+
+Nell'attesa di poterla applicare a livello mondiale,
+dovremmo applicarla almeno a livello europeo,
+aggiornando il meccanismo ECTS ed estendendolo
+a qualsiasi uso di combustibili fossili
+o altra emissione di gas serra.
+
+## Pareggio di bilancio
+
+Dobbiamo sanare le nostre economie dalla dipendenza dalla crescita,
+arrivando al pareggio di bilancio.
+Finché i nostri bilanci si chiuderanno con un deficit,
+avremo bisogno di crescita economica per poter pagare i nostri debiti l'anno successivo
+e continuare ad avere i finanziamenti che ci servono,
+ma così ci costringiamo a chiedere sempre di più dal Pianeta,
+e prima o poi il Pianeta ci dirà basta - e in tante piccole e grandi cose ce lo sta già dicendo.
+Se ci liberiamo del deficit saremo liberi di scegliere se crescere o no,
+e potremo decidere di farlo solo se e quanto l'innovazione tecnologica ci consentirà di farlo riducendo nel contempo gli impatti.
 
 # Italia
 
@@ -106,7 +182,7 @@ Vedi Piano energetico europeo: nell'attesa di realizzarlo a livello europeo, lo 
 ## Modificare la legge elettorale
 
 Il Parlamento dovrebbe essere eletto tramite un sistema proporzionale puro,
-con indicazione della preferenza dei candidati.
+con indicazione delle preferenze nella lista dei candidati.
 Tutte le liste che si presentano dovrebbero raccogliere le firme per presentarsi,
 anche quelle legate a gruppi già in Parlamento.
 
@@ -120,7 +196,7 @@ Se il problema è che senza la questione di fiducia i lavori al Parlamento riman
 allora occorre modificare il regolamento di Camera e Senato per impedire l'ostruzionismo,
 ma il potere legislativo deve restare nelle mani del Parlamento, non del Governo.
 
-## Sanità gratuita e pubblica
+## Sanità gratuita, pubblica, uguale per tutti
 
 - Eliminare il ticket, spostando questa entrata nelle imposte sul reddito o nelle tasse di concessione di risorse,
   in modo da semplificare le entrate dello Stato (obiettivo di semplificazione)
@@ -131,6 +207,10 @@ ma il potere legislativo deve restare nelle mani del Parlamento, non del Governo
 - Abolire le assicurazioni sanitarie:
   l'assistenza sanitaria deve essere garantita a tutti
   indipendentemente dal reddito o dalla situazione lavorativa (obiettivo di equità).
+  
+La gestione della sanità deve tornare ad essere nazionale anziché regionale.
+È ingiusto che alcune regioni forniscano servizi che altre non forniscono,
+o li forniscano con diversi livelli di qualità.
 
 ## Istruzione gratuita
 
@@ -146,13 +226,19 @@ si va, in modo semplice ed efficace, in direzione di una maggiore equità e soli
 
 ## Pensioni
 
-Le pensioni dovrebbero avere lo scopo di garantire una vita dignitosa a chi non può più lavorare, non di cristallizzare le differenze di ricchezza.
+Le pensioni dovrebbero avere lo scopo di garantire una vita dignitosa a chi non può più lavorare,
+non di cristallizzare le differenze di ricchezza.
 
-Di conseguenza io credo che l'importo della pensione dovrebbe essere uguale per tutti e sufficiente a vivere una vita dignitosa.
+Di conseguenza io credo che l'importo della pensione dovrebbe essere uguale per tutti
+e sufficiente a vivere una vita dignitosa.
+
+Se abbassare le pensioni troppo alte non è sufficiente ad alzare le pensioni ora troppo basse,
+le risorse vanno prese dalle tasse sullo sfruttamento delle risorse e dalle imposte sul reddito.
 
 ## Salario minimo
 
-Vorrei che fosse stabilito un salario minimo, come ad esempio nella [proposta di legge di Possibile](https://www.possibile.com/salariominimo/).
+Vorrei che fosse stabilito un salario minimo,
+come ad esempio nella [proposta di legge di Possibile](https://www.possibile.com/salariominimo/).
 
 ## Indennità di disoccupazione
 
@@ -173,8 +259,15 @@ e al terzo rifiuto perde l'indennità.
 Inoltre l'indennità dovrebbe essere negata
 a chi ha commesso, intenzionalmente, reati contro la pubblica amministrazione.
 
+Per coprire l'eventuale ulteriore costo,
+i soldi vanno presi dalle tasse sullo sfruttamento delle risorse e dalle imposte sul reddito.
+
 # Emilia-Romagna
 
 ## Consumo di suolo zero
 
 Nell'attesa di realizzarlo a livello nazionale, lo realizzerei almeno a livello regionale.
+
+## Sanità gratuita e pubblica
+
+Nell'attesa di realizzarla a livello nazionale, la realizzerei almeno a livello regionale.
