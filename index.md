@@ -139,6 +139,39 @@ ma il potere legislativo deve restare nelle mani del Parlamento, non del Governo
 - Per ciascun corso di laurea, fornire un adeguato numero di borse di studio,
   assegnate in base al merito, che coprano le tasse di iscrizione
   e forniscano un reddito sufficiente a coprire tutte le spese di vitto e alloggio.
+  
+Tutti questi sono costi ora sostenuti dalle famiglie: di conseguenza chi è più ricco ha maggiori possibilità di istruirsi.
+Finanziando questi costi con le tasse sull'uso delle risorse e con le imposte sul reddito
+si va, in modo semplice ed efficace, in direzione di una maggiore equità e solidarietà.
+
+## Pensioni
+
+Le pensioni dovrebbero avere lo scopo di garantire una vita dignitosa a chi non può più lavorare, non di cristallizzare le differenze di ricchezza.
+
+Di conseguenza io credo che l'importo della pensione dovrebbe essere uguale per tutti e sufficiente a vivere una vita dignitosa.
+
+## Salario minimo
+
+Vorrei che fosse stabilito un salario minimo, come ad esempio nella [proposta di legge di Possibile](https://www.possibile.com/salariominimo/).
+
+## Indennità di disoccupazione
+
+Il reddito di cittadinanza, erogato attraverso una carta apposta,
+è una misura discriminatoria nella quale la carta diventa il "marchio di povertà".
+
+Reddito di cittadinanza e indennità di disoccupazione dovrebbero essere unite
+in una unica indennità di disoccupazione,
+erogata tramite versamento sul conto corrente di chi la percepisce,
+senza vincoli sull'utilizzo dei soldi,
+e dovrebbero esserne titolari tutti i maggiorenni che non lavorano
+e non ricevono una pensione.
+
+In modo simile a quello che accade ora,
+chi riceve l'indennità di disoccupazione deve essere disponibile
+ad accettare proposte di lavoro,
+e al terzo rifiuto perde l'indennità.
+Inoltre l'indennità dovrebbe essere negata
+a chi ha commesso, intenzionalmente, reati contro la pubblica amministrazione.
 
 # Emilia-Romagna
 
