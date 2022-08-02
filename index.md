@@ -167,6 +167,13 @@ e prima o poi il Pianeta ci dirà basta - e in tante piccole e grandi cose ce lo
 Se ci liberiamo del deficit saremo liberi di scegliere se crescere o no,
 e potremo decidere di farlo solo se e quanto l'innovazione tecnologica ci consentirà di farlo riducendo nel contempo gli impatti.
 
+## Norme sulla sperimentazione sugli animali
+
+Credo che la tutela della salute umana possa giustificare l'uso di animali nella ricerca scientifica,
+nei casi dove questo è indispensabile, nel rispetto delle attuali norme.
+Non sono quindi d'accordo nel modificare in senso più restrittivo le attuali norme che regolano
+l'uso di animali nella ricerca scientifica.
+
 # Italia
 
 ## Consumo di suolo zero
