@@ -62,6 +62,35 @@ gratuitamente e nel modo più semplice e immediato possibile.
 - Togliere il potere legislativo al Consiglio dell'Unione Europea, lasciandolo solo al Parlamento
 - Eleggere il Parlamento Europeo attraverso liste transnazionali
 
+## Piano energetico europeo
+
+Credo che una corretta pianificazione energetica andrebbe fatta in questo modo:
+
+1. Stimare il fabbisogno atteso di energia per i prossimi 20-30 anni
+2. Elencare:
+   - tutte le possibili misure volte a ridurre il consumo energetico,
+    stimandone per ciascun anno l'effetto di riduzione del consumo,
+    e gli impatti ambientali, sociali ed economici, anche di lungo periodo;
+    tra queste misure devono rientrare anche quelle che comportano
+    una limitazione della crescita economica
+    e di conseguenza una riduzione del fabbisogno atteso di energia;
+   - tutte le attuali fonti di energia,
+    stimandone per i prossimi anni la produzione attesa di energia,
+    e gli impatti ambientali, sociali ed economici, anche di lungo periodo,
+    legati al mantenerle in funzione,
+    o in alternativa alla loro dismissione;
+   - per tutte le possibili fonti di energia,
+    tutti i possibili interventi che è possibile realizzare,
+    comprese tutte le possibili localizzazioni degli impianti di grandi dimensioni,
+    e per ciascuno di essi, per ciascun anno,
+    stimare la produzione attesa
+    e gli impatti ambientali, sociali ed economici, anche di lungo periodo.
+3. Stabilire un criterio per confrontare tra loro gli impatti ambientali e sociali
+4. Scegliere la combinazione di misure, fonti attuali e future
+   che abbia il minor impatto ambientale e sociale,
+   che sia in grado di coprire il fabbisogno atteso
+   e che sia realizzabile dal punto di vista economico.
+
 # Italia
 
 ## Consumo di suolo zero
@@ -69,6 +98,10 @@ gratuitamente e nel modo più semplice e immediato possibile.
 Vietare l'ulteriore consumo di suolo,
 senza eccezioni, nemmeno per infrastrutture pubbliche.
 Qualsiasi nuova struttura dovrà essere realizzata su suolo già edificato.
+
+## Piano energetico nazionale
+
+Vedi Piano energetico europeo: nell'attesa di realizzarlo a livello europeo, lo realizzerei almeno a livello nazionale.
 
 ## Modificare la legge elettorale
 
