@@ -17,7 +17,7 @@ Vorrei che l'umanità si facesse carico di rimuovere gli ostacoli che limitano l
 Vorrei che l'umanità di facesse carico di porre limiti alle attività umane affinché queste possibilità
 continuino ad essere garantite a tutti gli individui,
 sia delle generazioni attuali che di quelle future,
-in particolare assicurando che le risorse naturali e il patrimonio culturale siano preservati
+in particolare assicurando che l'ambiente, le risorse naturali e il patrimonio culturale siano preservati
 affinché le generazioni future possano goderne almeno tanto quanto la generazione attuale.
 
 Vorrei istituzioni democratiche dove ciascuno abbia le stesse possibilità
@@ -57,9 +57,35 @@ gratuitamente e nel modo più semplice e immediato possibile.
 
 # Europa
 
+## Rivedere i trattati
+
+- Togliere il potere legislativo al Consiglio dell'Unione Europea, lasciandolo solo al Parlamento
+- Eleggere il Parlamento Europeo attraverso liste transnazionali
+
 # Italia
 
+## Consumo di suolo zero
 
+Vietare l'ulteriore consumo di suolo,
+senza eccezioni, nemmeno per infrastrutture pubbliche.
+Qualsiasi nuova struttura dovrà essere realizzata su suolo già edificato.
+
+## Modificare la legge elettorale
+
+Il Parlamento dovrebbe essere eletto tramite un sistema proporzionale puro,
+con indicazione della preferenza dei candidati.
+Tutte le liste che si presentano dovrebbero raccogliere le firme per presentarsi,
+anche quelle legate a gruppi già in Parlamento.
+
+## Cancellare la questione di fiducia
+
+A mio parere, un governo che pone una questione di fiducia al Parlamento lo sta ricattando.
+Vorrei quindi che fossero modificati i regolamenti di Camera e Senato e la legge 400/88
+eliminando la possibilità di ricorrere a questo stratagemma.
+
+Se il problema è che senza la questione di fiducia i lavori al Parlamento rimangono impantanati,
+allora occorre modificare il regolamento di Camera e Senato per impedire l'ostruzionismo,
+ma il potere legislativo deve restare nelle mani del Parlamento, non del Governo.
 
 # Emilia-Romagna
 
