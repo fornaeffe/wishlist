@@ -280,6 +280,16 @@ a chi ha commesso, intenzionalmente, reati contro la pubblica amministrazione.
 Per coprire l'eventuale ulteriore costo,
 i soldi vanno presi dalle tasse sullo sfruttamento delle risorse e dalle imposte sul reddito.
 
+## Sicurezza stradale
+
+- Togliere l'obbligo di segnalazione e di visibilità degli autovelox:
+  altrimenti chiunque può superare i limiti
+  e rallentare solo davanti all'autovelox.
+- Togliere l'obbligo di dispositivi antiabbandono:
+  si impone una spesa non trascurabile alla quasi totalità delle famiglie
+  per ridurre il rischio di un abbandono che, per quanto tragico,
+  è comunque rarissimo.
+
 # Emilia-Romagna
 
 ## Consumo di suolo zero
