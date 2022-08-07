@@ -1,1 +1,9 @@
 theme: minima
+
+author: Luca Fornasari
+
+minima:
+  social_links:
+    github:  fornaeffe
+    facebook: fornaeffe
+    instagram: fornaeffe
