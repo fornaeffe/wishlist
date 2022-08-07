@@ -1,4 +1,6 @@
 theme: minima
-author:
-  name: Luca Fornasari
-  email: "fornaeffe@gmail.com"
+minima:
+  social_links:
+    github: fornaeffe
+    facebook: fornaeffe
+    instagram: fornaeffe
