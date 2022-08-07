@@ -1,7 +1,3 @@
----
-title: Wishlist
----
-
 Questo elenco nasce da un desiderio di ampliare le idee che avevo abbozzato
 nel mio post sullo [Sviluppo Insostenibile](https://fornaeffe.blogspot.com/2019/11/sviluppo-insostenibile.html),
 che è perfetto come introduzione a questa lista.
