@@ -122,7 +122,9 @@ Credo che una corretta pianificazione energetica andrebbe fatta in questo modo:
 3. Stabilire un criterio per confrontare tra loro gli impatti ambientali e sociali
 4. Scegliere la combinazione di misure, fonti attuali e future
    che abbia il minor impatto ambientale e sociale,
-   che sia in grado di coprire il fabbisogno atteso
+   che permetta di raggiungere gli obiettivi di riduzione delle emissioni
+   stabiliti a livello internazionale ed europeo,
+   che sia in grado di coprire il fabbisogno atteso,
    e che sia realizzabile dal punto di vista economico.
 
 ## Piano europeo dei trasporti
@@ -203,6 +205,8 @@ Il Parlamento dovrebbe essere eletto tramite un sistema proporzionale puro,
 con indicazione delle preferenze nella lista dei candidati.
 Tutte le liste che si presentano dovrebbero raccogliere le firme per presentarsi,
 anche quelle legate a gruppi già in Parlamento.
+
+Permettere il **voto fuori sede**, come richiesto ad esempio da [Io Voto Fuori Sede](https://www.iovotofuorisede.it/). 
 
 ## Cancellare la questione di fiducia
 
@@ -289,6 +293,55 @@ i soldi vanno presi dalle tasse sullo sfruttamento delle risorse e dalle imposte
   si impone una spesa non trascurabile alla quasi totalità delle famiglie
   per ridurre il rischio di un abbandono che, per quanto tragico,
   è comunque rarissimo.
+  
+## Giustizia
+
+Una giustizia che, per non correre il rischio di commettere errori,
+finisce per lasciare impuniti i reati,
+non è giustizia, è spreco di risorse.
+Processi che durano anni,
+che finiscono in prescrizione,
+donne che vengono uccise dall'uomo che avevano già più volte denunciato
+sono segno che è necessario aumentare l'efficacia e la velocità del sistema giudiziario.
+Che venga chiamata prescrizione o improcedibilità,
+lasciar cadere nel vuoto i processi che durano troppo a lungo è solo alleviare il sintomo anziché risolvere la causa,
+ed è comunque una ingiustizia nei confronti delle vittime dei crimini rimasti impuniti.
+Occorre che chi è competente in materia vada a individuare
+quali sono le misure che renderebbero più efficace e rapida l'azione del sistema giudiziario
+che allo stesso tempo abbiano il minor effetto negativo
+in termini di rischio di errori giudiziari o compressione dei diritti degli indagati o imputati.
+
+Le forze dell'ordine devono essere messe nelle condizioni di svolgere la loro azione in modo efficace,
+anche con un aumento di risorse là dove risultassero carenti.
+Allo stesso tempo la loro azione deve avere la massima trasparenza,
+e a questo scopo, tra le altre cose, è necessario che gli agenti siano sempre identificabili quando in uniforme,
+ad esempio con i numeri identificativi per gli agenti in tenuta antisommossa.
+
+## Semplificazione
+
+Fare una ricognizione, presso tutte le amministrazioni pubbliche,
+di tutti gli obblighi burocratici richiesti a persone fisiche e giuridiche
+per esercitare i loro diritti, assolvere i loro doveri o svolgere le loro attività,
+e semplificare tutti quelli che si possono semplificare
+senza ledere in modo significativo i diritti di nessuno.
+
+Abolire tutte le imposte di bollo.
+Spostare queste entrate dalle imposte di bollo alle tasse sullo sfruttamento delle risorse e alle imposte sul reddito,
+in modo da avere un minor numero di passaggi burocratici da svolgere.
+
+Gli incentivi devono essere erogati sotto forma di contributo pubblico all'acquisto di beni e servizi,
+non sotto forma di detrazioni fiscali,
+che vanno a complicare inutilmente la dichiarazione dei redditi,
+e non possono essere goduti allo stesso modo da tutti.
+
+Abolire la lotteria degli scontrini.
+
+Abolire la figura di "docente esperto", come richiesto dalla 
+[petizione di Professione Insegnante](https://www.change.org/p/stralciare-la-norma-sul-docente-esperto-lede-la-dignit%C3%A0-della-professione-docente).
+
+## Eutanasia legale
+
+Approvare la [proposta di legge sull'eutanasia legale](https://www.eutanasialegale.it/).
 
 # Emilia-Romagna
 
