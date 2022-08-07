@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 Lista personale di proposte per lasciare il mondo un po' migliore di come lo ho trovato.
 
 Questo elenco nasce da un desiderio di ampliare le idee che avevo abbozzato
