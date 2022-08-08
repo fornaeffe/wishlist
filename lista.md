@@ -69,7 +69,7 @@ Attraverso il denaro ricavato dalla carbon tax
 occorrerà incentivare la trasformazione del sistema produttivo
 in modo da fornire alternative accessibili ai combustibili fossili.
 
-Vedi anche il post [Sviluppo insostenibile]({% post_url 2021-07-24-Sviluppo-insostenibile %}).
+Vedi anche il post [Sviluppo insostenibile]({% post_url /wishlist/2021-07-24-Sviluppo-insostenibile %}).
 
 ### Ridurre la sovrappopolazione
 
@@ -82,7 +82,7 @@ l'accesso da parte di tutti, e in particolare delle donne,
 all'istruzione, al mondo del lavoro, all'assistenza sanitaria,
 compreso l'informazione e l'accesso a contraccezione.
 
-Vedi anche il post [Sviluppo insostenibile]({% post_url 2021-07-24-Sviluppo-insostenibile %}).
+Vedi anche il post [Sviluppo insostenibile]({% post_url /wishlist/2021-07-24-Sviluppo-insostenibile %}).
 
 ### Libertà di scelta sulla propria vita e il proprio corpo
 
@@ -160,7 +160,7 @@ E' necessario, secondo me, che a livello europeo qualsiasi accordo di importazio
 preveda che **vengano importati esclusivamente beni e servizi da paesi con tutele ambientali e sociali almeno equivalenti a quelle europee**,
 oppure da imprese che garantiscano queste tutele alla comunità dove operano.
 
-Vedi anche il post [Sviluppo insostenibile]({% post_url 2021-07-24-Sviluppo-insostenibile %}).
+Vedi anche il post [Sviluppo insostenibile]({% post_url /wishlist/2021-07-24-Sviluppo-insostenibile %}).
 
 ### Carbon tax
 
@@ -197,7 +197,7 @@ Vietare l'ulteriore consumo di suolo,
 senza eccezioni, nemmeno per infrastrutture pubbliche.
 Qualsiasi nuova struttura dovrà essere realizzata su suolo già edificato.
 
-Vedi anche il post [Sviluppo insostenibile]({% post_url 2021-07-24-Sviluppo-insostenibile %}).
+Vedi anche il post [Sviluppo insostenibile]({% post_url /wishlist/2021-07-24-Sviluppo-insostenibile %}).
 
 ### Piano energetico nazionale
 
