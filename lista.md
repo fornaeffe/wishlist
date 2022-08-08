@@ -69,7 +69,7 @@ Attraverso il denaro ricavato dalla carbon tax
 occorrerà incentivare la trasformazione del sistema produttivo
 in modo da fornire alternative accessibili ai combustibili fossili.
 
-Vedi anche il post [Sviluppo insostenibile]({% post_url /wishlist/2021-07-24-Sviluppo-insostenibile %}).
+Vedi anche il post [Sviluppo insostenibile]({% post_url /2021-07-24-Sviluppo-insostenibile %}).
 
 ### Ridurre la sovrappopolazione
 
@@ -82,7 +82,7 @@ l'accesso da parte di tutti, e in particolare delle donne,
 all'istruzione, al mondo del lavoro, all'assistenza sanitaria,
 compreso l'informazione e l'accesso a contraccezione.
 
-Vedi anche il post [Sviluppo insostenibile]({% post_url /wishlist/2021-07-24-Sviluppo-insostenibile %}).
+Vedi anche il post [Sviluppo insostenibile]({% post_url /2021-07-24-Sviluppo-insostenibile %}).
 
 ### Libertà di scelta sulla propria vita e il proprio corpo
 
