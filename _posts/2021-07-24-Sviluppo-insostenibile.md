@@ -249,3 +249,5 @@ Occorre che ci impegniamo,
 che ci riappropriamo di quella politica che non è una cosa cattiva,
 ma è imparare a costruire insieme la casa comune,
 il mondo che vogliamo.
+
+<!--more-->
