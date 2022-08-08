@@ -4,6 +4,8 @@ title: "La Lista dei desideri"
 permalink: /lista/
 ---
 
+di Luca Fornasari
+
 Lista personale di proposte per lasciare il mondo un po' migliore di come lo ho trovato.
 
 Le mie idee (come, penso, quelle di tutti) crescono con me,
