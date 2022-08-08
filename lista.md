@@ -195,6 +195,8 @@ e prima o poi il Pianeta ci dirà basta - e in tante piccole e grandi cose ce lo
 Se ci liberiamo del deficit saremo liberi di scegliere se crescere o no,
 e potremo decidere di farlo solo se e quanto l'innovazione tecnologica ci consentirà di farlo riducendo nel contempo gli impatti.
 
+Vedi anche il post [Sviluppo insostenibile]({{site.baseurl}}{% post_url 2021-07-24-Sviluppo-insostenibile %}).
+
 ### Norme sulla sperimentazione sugli animali
 
 Credo che la tutela della salute umana possa giustificare l'uso di animali nella ricerca scientifica,
