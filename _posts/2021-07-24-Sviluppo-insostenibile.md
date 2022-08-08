@@ -20,7 +20,7 @@ e nemmeno che non sia più possibile:
 semplicemente non è l'obiettivo a cui dobbiamo tendere,
 ed è pericoloso continuare a inseguirla.
 
-![TiBre](wishlist/assets/tibre.png)
+![TiBre]({{site.baseurl}}/assets/tibre.png)
 
 #### Cosa sta succedendo?
 
