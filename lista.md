@@ -202,6 +202,15 @@ nei casi dove questo è indispensabile, nel rispetto delle attuali norme.
 Non sono quindi d'accordo nel modificare in senso più restrittivo le attuali norme che regolano
 l'uso di animali nella ricerca scientifica.
 
+### Agricoltura
+
+Credo che occorra spingere l'agricoltura verso pratiche agricole meno impattanti rispetto ad oggi,
+ad esempio riducendo l'uso di pesticidi e favorendo pratiche che garantiscano la maggiore biodiversità possibile.
+
+Non sono contrario a priori all'uso di organismi geneticamente modificati,
+nei casi in cui sia dimostrata la sicurezza nel loro uso
+e impatti ambientali ridotti rispetto alle alternative non OGM.
+
 ## Italia
 
 ### Consumo di suolo zero
@@ -254,6 +263,11 @@ ma il potere legislativo deve restare nelle mani del Parlamento, non del Governo
 La gestione della sanità deve tornare ad essere nazionale anziché regionale.
 È ingiusto che alcune regioni forniscano servizi che altre non forniscono,
 o li forniscano con diversi livelli di qualità.
+
+Credo che non dovrebbero essere erogati con soldi pubblici trattamenti
+la cui efficacia non è stata dimostrata scientificamente,
+e nessun prodotto o trattamento dovrebbe poter essere commercializzato
+pubblicizzando proprietà terapeutiche non dimostrate scientificamente.
 
 ### Istruzione gratuita
 
