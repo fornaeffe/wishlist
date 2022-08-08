@@ -4,9 +4,6 @@ title: "Sviluppo insostenibile"
 date: 2021-07-24 07:44:00 -0000
 ---
 
-*Post originariamente pubblicato su [Blogspot](https://fornaeffe.blogspot.com/2019/11/sviluppo-insostenibile.html)*
-
-
 Non c'è spazio per inseguire la crescita economica
 se desideriamo preservare quello che rimane della bellezza e dell'abitabilità del nostro pianeta.
 
@@ -19,6 +16,8 @@ Non che la crescita economica sia necessariamente il male,
 e nemmeno che non sia più possibile:
 semplicemente non è l'obiettivo a cui dobbiamo tendere,
 ed è pericoloso continuare a inseguirla.
+
+<!--more-->
 
 ![TiBre]({{site.baseurl}}/assets/tibre.png)
 
@@ -250,4 +249,5 @@ che ci riappropriamo di quella politica che non è una cosa cattiva,
 ma è imparare a costruire insieme la casa comune,
 il mondo che vogliamo.
 
-<!--more-->
+*Post originariamente pubblicato su [Blogspot](https://fornaeffe.blogspot.com/2019/11/sviluppo-insostenibile.html)*
+

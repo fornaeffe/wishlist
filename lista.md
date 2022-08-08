@@ -6,6 +6,17 @@ permalink: /lista/
 
 Lista personale di proposte per lasciare il mondo un po' migliore di come lo ho trovato.
 
+Le mie idee (come, penso, quelle di tutti) crescono con me,
+man mano che approfondisco e mi confronto con gli altri.
+Per questo questa lista è in evoluzione,
+e la aggiornerò via via che faccio mie nuove idee
+o mi rendo conto che devo rivedere le proposte che avevo fatto.
+E sempre per questo motivo sono benvenuti commenti,
+suggerimenti, segnalazione di errori o proposte alternative,
+anche perché non sono un tuttologo
+e su ogni argomento ci saranno molte persone più esperte di me:
+trovate i miei contatti in fondo alla pagina.
+
 ## Le radici
 
 ### Equità
@@ -69,7 +80,7 @@ Attraverso il denaro ricavato dalla carbon tax
 occorrerà incentivare la trasformazione del sistema produttivo
 in modo da fornire alternative accessibili ai combustibili fossili.
 
-Vedi anche il post [Sviluppo insostenibile]({% post_url /2021-07-24-Sviluppo-insostenibile %}).
+Vedi anche il post [Sviluppo insostenibile]({{site.baseurl}}{% post_url 2021-07-24-Sviluppo-insostenibile %}).
 
 ### Ridurre la sovrappopolazione
 
@@ -82,7 +93,7 @@ l'accesso da parte di tutti, e in particolare delle donne,
 all'istruzione, al mondo del lavoro, all'assistenza sanitaria,
 compreso l'informazione e l'accesso a contraccezione.
 
-Vedi anche il post [Sviluppo insostenibile]({% post_url /2021-07-24-Sviluppo-insostenibile %}).
+Vedi anche il post [Sviluppo insostenibile]({{site.baseurl}}{% post_url 2021-07-24-Sviluppo-insostenibile %}).
 
 ### Libertà di scelta sulla propria vita e il proprio corpo
 
@@ -160,7 +171,7 @@ E' necessario, secondo me, che a livello europeo qualsiasi accordo di importazio
 preveda che **vengano importati esclusivamente beni e servizi da paesi con tutele ambientali e sociali almeno equivalenti a quelle europee**,
 oppure da imprese che garantiscano queste tutele alla comunità dove operano.
 
-Vedi anche il post [Sviluppo insostenibile]({% post_url /wishlist/2021-07-24-Sviluppo-insostenibile %}).
+Vedi anche il post [Sviluppo insostenibile]({{site.baseurl}}{% post_url 2021-07-24-Sviluppo-insostenibile %}).
 
 ### Carbon tax
 
@@ -197,7 +208,7 @@ Vietare l'ulteriore consumo di suolo,
 senza eccezioni, nemmeno per infrastrutture pubbliche.
 Qualsiasi nuova struttura dovrà essere realizzata su suolo già edificato.
 
-Vedi anche il post [Sviluppo insostenibile]({% post_url /wishlist/2021-07-24-Sviluppo-insostenibile %}).
+Vedi anche il post [Sviluppo insostenibile]({{site.baseurl}}{% post_url 2021-07-24-Sviluppo-insostenibile %}).
 
 ### Piano energetico nazionale
 
